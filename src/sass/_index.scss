@@ -1,0 +1,17 @@
+@import "App";
+@import "Header";
+@import "Main";
+@import "Footer";
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
